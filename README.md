@@ -6,6 +6,6 @@ Predict active power consumption in house hold using time series and causal data
 - which lags are imp (for which features)
 - Historical values or their weekly average/moving average leads to best results
 - Try following Predictive techniques:
-1. XGBoost 
-2. RNN
-3. Conventional ARIMA
+1. XGBoost  - DONE
+2. RNN -WIP
+3. Conventional ARIMA -WIP
